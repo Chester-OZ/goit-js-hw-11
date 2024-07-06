@@ -116,7 +116,7 @@ body {
 
 .loader {
   display: none;
-  margin: 40px auto;
+  margin: 0 auto;
   text-align: center;
   background-color: #fff;
   border-radius: 16px;
@@ -152,4 +152,9 @@ body {
 .sl-wrapper.simple-lightbox .sl-navigation button.sl-prev {
   font-size: 24px;
   color: #fff;
+}
+
+.js-load-more.button {
+  width: 125px;
+  margin: 40px auto;
 }
